@@ -98,31 +98,78 @@ content:
           Building a diverse movement of upwardly mobile college grads overcoming underemployment through digital skills and peer connections.
         description: | # this will include new lines to allow paragraphs
           As a Data Analytics Instructor, I lead 200+ hours of classes on Excel, SQL, Tableau, and Python fundamentals for aspiring data analysts, improve the technical curriculum, and provide individualized guidance to apprentices. Additionally, I lead small group trainings, contribute to curriculum development, and support junior instructors.
+        
+      - layout: left
+        title: CodeGreen Solutions, Inc.
+        link: https://codegreen.com/
+        # link_text: boringcompany.com
+        sub_title: Data Analytics Engineer
+        caption: November 2021 - June 2022
+        quote: >
+          Our multi-disciplinary team of expert sustainable real estate consultants helps you protect and increase the long-term value of your assets.
+        description: | # this will include new lines to allow paragraphs
+          I served as a Data Engineer, engineering the organization's new data warehouse with Python and PostgreSQL, improving collaboration within the data architecture team, and building data pipelines. I also developed a library of tools, designed data models, and monitored database performance, while facilitating metadata discovery, data governance, and data lineage.
+      
+      - layout: left
+        title: Freelance/Contract
+        # link: https://coopcareers.org/
+        # link_text: boringcompany.com
+        sub_title: Web Developer and Content Editor
+        caption: June 2019 - November 2021
+        description: | # this will include new lines to allow paragraphs
+          As a Web Developer and Content Editor, I built custom websites for clients, provided technology consulting, and created original content. I also offered transcription, closed-captioning, and editing services for accuracy and clarity.
+
+      - layout: left
+        title: IATSE National Benefit Funds
+        link: https://www.iatsenbf.org/
+        # link_text: boringcompany.com
+        sub_title: Software Quality Assurance Specialist | Digital Content Coordinator | Signatory Validator
+        caption: August 2014 - January 2019
+        quote: >
+          The IATSE National Benefit Funds are trust funds established by the IATSE through collective bargaining with various entertainment industry employers.
+        description: | # this will include new lines to allow paragraphs
+          As a Software Quality Assurance Specialist, I built and maintained test suites, automated processes using SQL, Python, and PlanetPress, and collaborated across departments to gather user stories and create reports. As a Digital Content Coordinator, I maintained company website content and managed internal automated processes. As a Signatory Validator, I ensured remittance report accuracy and proper fund allocation.
+      
+      - layout: left
+        title: Borough of Manhattan Community College
+        link: https://www.bmcc.cuny.edu/
+        # link_text: boringcompany.com
+        sub_title: CUNY Office Assistant
+        caption: July 2009 - January 2016
+        quote: >
+          Start Here. Go Anywhere.
+        description: | # this will include new lines to allow paragraphs
+          As a CUNY Office Assistant, I managed daily operations for various campus programs, prepared correspondence, coordinated events, and designed assessments. I also contributed to maintaining scholarship websites, databases, and digital media for programs run by the Division of Student Affairs.
+  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Western Governors University
+        caption: 2017 - 2020
+        sub_title: BS Software Development
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Western Governors University is an online university where you can earn an affordable, accredited, career-focused college degree at an accelerated pace.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Designed with input from industry experts, the B.S. Software Engineering program provides a solid foundation with these key skills:
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          - Scripting and programming
+          - Web development
+          - Mobile application development 
+          - User experience design
+          - Software quality assurance
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in data and software engineering, some of my other interests and hobbies are:
+      - Playing music
+      - Photography
+      - Cooking
+      - Reading
+      - Hiking
+      - Watching anime and reading manga
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
