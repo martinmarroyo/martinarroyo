@@ -55,54 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am passionate about technology, education, and helping people who want to break into the tech industry by making instruction in the basics accessible and easy to digest.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Texas Essential Knowledge and Skills (TEKS) Part of Speech Analysis
-        link: https://github.com/martinmarroyo/teks_pos_analysis
-        # link_text: Project Website
-        additional_links:
-          - title:  TEKS Part of Speech Analysis - Code
-            icon: fab fa-github
-            url: https://github.com/martinmarroyo/teks_pos_analysis
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Web Scraping and Part of Speech Analysis of the Texas Essential Knowledge and Skills (TEKS)
-        description: | # this will include new lines to allow paragraphs
-          In this project, I scraped the TEKS website for all subjects in grades 4-8. Then I conducted a part of speech analysis by finding the most common verbs across all grades and subjects.
-
-          This was a volunteer project in support of Celebrate Dyslexia, a non-profit organization in Texas. Their mission is to foster a community that celebrates, educates and empowers those with Dyslexia. With the results of this analysis, the team at Celebrate Dyslexia was be empowered to create a curriculum that supplements TEKS in order to better support children in grades 4-8 who have Dyslexia.
-
-          Visualizations that were created for this project can be [viewed here](https://public.tableau.com/views/TexasEssentialKnowledgeandSkills-AnAnalysisofVerbSkillStatementsforGrades4-8/VerbCloud?:language=en-US&:display_count=n&:origin=viz_share_link)
-      - layout: top-middle
-        title: DataLab
-        link: https://github.com/martinmarroyo/DataLab
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: https://github.com/martinmarroyo/DataLab
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          DataLab is a curated, open source, data analytics laboratory.
-        description: | # this will include new lines to allow paragraphs
-          DataLab was inspired by my experiences learning and teaching data analytics. I saw a gap where new practitioners didn't really know how to practice fundamental data skills like 
-          querying a database, using a visualization tool, programming with Python, and tying all of these pieces together. I wanted to create a relatively simple way to connect these pieces
-          and facilitate more realistic learning experiences. Also, I wanted to develop my own infrastructure skills, so I used the opportunity to learn more about Docker in order to put this together.
-
-          DataLab is a curated, open source, data analytics laboratory complete with:
-
-          - A relational database (Postgres) and a UI tool (pgAdmin) to manage it
-          - A Python development environment with the most common data analytics tools pre-installed
-          - And a data visualization tool (Metabase) to work with the data
-
-          The lab comes with two sample datasets for you to get started with. DataLab is both extensible and flexible. You can add resources via Docker containers, and you can pick and choose whichever resources you want to use. 
-          Whether you just want to use the included data sets with your preferred spreadsheet program, or you want to experiment with other technologies, you can use the DataLab to help you test, explore, and learn.
+  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -187,7 +140,55 @@ content:
           - Mobile application development 
           - User experience design
           - Software quality assurance
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Texas Essential Knowledge and Skills (TEKS) Part of Speech Analysis
+        link: https://github.com/martinmarroyo/teks_pos_analysis
+        # link_text: Project Website
+        additional_links:
+          - title:  TEKS Part of Speech Analysis - Code
+            icon: fab fa-github
+            url: https://github.com/martinmarroyo/teks_pos_analysis
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Web Scraping and Part of Speech Analysis of the Texas Essential Knowledge and Skills (TEKS)
+        description: | # this will include new lines to allow paragraphs
+          In this project, I scraped the TEKS website for all subjects in grades 4-8. Then I conducted a part of speech analysis by finding the most common verbs across all grades and subjects.
 
+          This was a volunteer project in support of Celebrate Dyslexia, a non-profit organization in Texas. Their mission is to foster a community that celebrates, educates and empowers those with Dyslexia. With the results of this analysis, the team at Celebrate Dyslexia was be empowered to create a curriculum that supplements TEKS in order to better support children in grades 4-8 who have Dyslexia.
+
+          Visualizations that were created for this project can be [viewed here](https://public.tableau.com/views/TexasEssentialKnowledgeandSkills-AnAnalysisofVerbSkillStatementsforGrades4-8/VerbCloud?:language=en-US&:display_count=n&:origin=viz_share_link)
+      - layout: top-middle
+        title: DataLab
+        link: https://github.com/martinmarroyo/DataLab
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: https://github.com/martinmarroyo/DataLab
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          DataLab is a curated, open source, data analytics laboratory.
+        description: | # this will include new lines to allow paragraphs
+          DataLab was inspired by my experiences learning and teaching data analytics. I saw a gap where new practitioners didn't really know how to practice fundamental data skills like 
+          querying a database, using a visualization tool, programming with Python, and tying all of these pieces together. I wanted to create a relatively simple way to connect these pieces
+          and facilitate more realistic learning experiences. Also, I wanted to develop my own infrastructure skills, so I used the opportunity to learn more about Docker in order to put this together.
+
+          DataLab is a curated, open source, data analytics laboratory complete with:
+
+          - A relational database (Postgres) and a UI tool (pgAdmin) to manage it
+          - A Python development environment with the most common data analytics tools pre-installed
+          - And a data visualization tool (Metabase) to work with the data
+
+          The lab comes with two sample datasets for you to get started with. DataLab is both extensible and flexible. You can add resources via Docker containers, and you can pick and choose whichever resources you want to use. 
+          Whether you just want to use the included data sets with your preferred spreadsheet program, or you want to experiment with other technologies, you can use the DataLab to help you test, explore, and learn.
+  
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
