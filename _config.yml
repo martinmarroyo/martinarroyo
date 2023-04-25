@@ -67,7 +67,7 @@ content:
             icon: fab fa-github
             url: https://github.com/martinmarroyo/teks_pos_analysis
           - title: TEKS Part of Speech Analysis - Visuals
-            icon: fab fa-solid fa-chart-scatter
+            icon: fab fa-chart-scatter
             url: https://public.tableau.com/views/TexasEssentialKnowledgeandSkills-AnAnalysisofVerbSkillStatementsforGrades4-8/VerbCloud?:language=en-US&:display_count=n&:origin=viz_share_link
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
@@ -102,7 +102,7 @@ content:
           - A relational database (Postgres) and a UI tool (pgAdmin) to manage it
           - A Python development environment with the most common data analytics tools pre-installed
           - And a data visualization tool (Metabase) to work with the data
-          
+
           The lab comes with two sample datasets for you to get started with. DataLab is both extensible and flexible. You can add resources via Docker containers, and you can pick and choose whichever resources you want to use. 
           Whether you just want to use the included data sets with your preferred spreadsheet program, or you want to experiment with other technologies, you can use the DataLab to help you test, explore, and learn.
   - title: Experience # Title for the section
