@@ -66,9 +66,6 @@ content:
           - title:  TEKS Part of Speech Analysis - Code
             icon: fab fa-github
             url: https://github.com/martinmarroyo/teks_pos_analysis
-          - title: TEKS Part of Speech Analysis - Visuals
-            icon: fab fa-chart-scatter
-            url: https://public.tableau.com/views/TexasEssentialKnowledgeandSkills-AnAnalysisofVerbSkillStatementsforGrades4-8/VerbCloud?:language=en-US&:display_count=n&:origin=viz_share_link
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -78,7 +75,8 @@ content:
           In this project, I scraped the TEKS website for all subjects in grades 4-8. Then I conducted a part of speech analysis by finding the most common verbs across all grades and subjects.
 
           This was a volunteer project in support of Celebrate Dyslexia, a non-profit organization in Texas. Their mission is to foster a community that celebrates, educates and empowers those with Dyslexia. With the results of this analysis, the team at Celebrate Dyslexia was be empowered to create a curriculum that supplements TEKS in order to better support children in grades 4-8 who have Dyslexia.
-      
+
+          Visualizations that were created for this project can be [viewed here](https://public.tableau.com/views/TexasEssentialKnowledgeandSkills-AnAnalysisofVerbSkillStatementsforGrades4-8/VerbCloud?:language=en-US&:display_count=n&:origin=viz_share_link)
       - layout: top-middle
         title: DataLab
         link: https://github.com/martinmarroyo/DataLab
