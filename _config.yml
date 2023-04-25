@@ -48,11 +48,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profilepic.jfif
 about_content: | # this will include new lines to allow paragraphs
- I am a data engineer and analytics instructor with experience in various industries. 
+  I am a data engineer and analytics instructor with experience in various industries. 
 
-At Honda Research Institute/99P Labs, I develop streaming data pipelines using open-source technologies such as Apache Spark and Kafka. At COOP Careers, I teach fundamental skills in Excel, SQL, Tableau, and Python to aspiring data analysts and provide guidance to junior instructors. My previous experiences range from higher education to web development, content editing, and software quality assurance.
+  At Honda Research Institute/99P Labs, I develop streaming data pipelines using open-source technologies such as Apache Spark and Kafka. At COOP Careers, I teach fundamental skills in Excel, SQL, Tableau, and Python to aspiring data analysts and provide guidance to junior instructors. My previous experiences range from higher education to web development, content editing, and software quality assurance.
 
-I am passionate about technology, education, and helping people who want to break into the tech industry by making instruction in the basics accessible and easy to digest.
+  I am passionate about technology, education, and helping people who want to break into the tech industry by making instruction in the basics accessible and easy to digest.
 
 content:
   - title: Projects # Title for the section
