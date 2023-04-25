@@ -78,16 +78,26 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Honda Research Institute/99P Labs
+        link: https://medium.com/99p-labs
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Data Engineer
+        caption: June 2022 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          99P Labs is bringing the future through innovative partnerships. Backed by Honda and The Ohio State University, 99P Labs is a physical and digital collaboration space that helps innovators from business, government, and higher-education come together to further the evolution and revolution of mobility and energy concepts. 
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+            As a Data Engineer, I develop streaming data pipelines using Apache Spark and Kafka to handle billions of records daily, collaborate with Data Science teams on analytics use cases, and work with developer advocates to create datasets for university partnerships. I also create technical documentation and write data engineering blogs for the 99P Labs Medium page.
+  
+      - layout: left
+        title: COOP Careers
+        link: https://coopcareers.org/
+        # link_text: boringcompany.com
+        sub_title: Data Analytics Instructor (Executive Captain)
+        caption: January 2022 - Present
+        quote: >
+          Building a diverse movement of upwardly mobile college grads overcoming underemployment through digital skills and peer connections.
+        description: | # this will include new lines to allow paragraphs
+          As a Data Analytics Instructor, I lead 200+ hours of classes on Excel, SQL, Tableau, and Python fundamentals for aspiring data analysts, improve the technical curriculum, and provide individualized guidance to apprentices. Additionally, I lead small group trainings, contribute to curriculum development, and support junior instructors.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
